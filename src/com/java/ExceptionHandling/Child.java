@@ -1,4 +1,4 @@
-package com.java.ExceptionHandeling;
+package com.java.ExceptionHandling;
 //Annotation
 
 class Parent{

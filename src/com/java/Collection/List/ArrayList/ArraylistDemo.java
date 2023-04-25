@@ -1,7 +1,6 @@
 package com.java.Collection.List.ArrayList;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class ArraylistDemo {
     public static void main(String[] args) {
@@ -58,6 +57,11 @@ public class ArraylistDemo {
 
         //equals
         System.out.println(list.equals(list1));
+
+        //iterator
+        for(Integer i:list){
+            System.out.print(i+" ");
+        }
 
     }
 }
