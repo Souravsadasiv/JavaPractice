@@ -1,5 +1,6 @@
+package com.java.ExceptionHandeling;
 //Annotation
-import java.util.*;
+
 class Parent{
     void property(){
         System.out.println("10cr Property will be of my child");
